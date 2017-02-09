@@ -1,4 +1,4 @@
-var Generator = require('generator-maven-spring');
+var Generator = require('yeoman-generator');
 
 module.exports = class extends Generator {
 
