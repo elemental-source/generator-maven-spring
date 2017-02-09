@@ -3,5 +3,6 @@
 
 ## Install
 To install run:
-- Install: `npm install -g generator-maven-spring`
+- Link: `npm link`
+- Install: `npm install`
 - Run: `yo maven-spring:app`
